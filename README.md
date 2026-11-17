@@ -1,14 +1,12 @@
 # Membership App Web
 
-A modern membership management admin panel built with React + Vite.
+A modern membership management admin dashboard for handling members, plans, billing, reports, and settings.
 
-## Features
+## Stack
 
-- Overview dashboard with key stats
-- Member management table
-- Membership plan comparison cards
-- Payment and renewal tracking
-- Quick actions and recent activity
+- React
+- Vite
+- React Router DOM
 
 ## Getting started
 
@@ -17,10 +15,24 @@ npm install
 npm run dev -- --host
 ```
 
-Open the local URL shown by Vite in the terminal.
+Then open the local URL that Vite prints in the terminal.
 
-## Build for production
+## Production build
 
 ```bash
 npm run build
 ```
+
+## Included pages
+
+- Overview dashboard
+- Members directory
+- Plans management
+- Billing overview
+- Reports dashboard
+- Settings panel
+
+## Repo
+
+https://github.com/Mikeleoh/membership-app-web
+
